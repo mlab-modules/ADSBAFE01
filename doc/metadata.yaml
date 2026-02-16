@@ -17,6 +17,7 @@ images:
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_02.svg
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_01.svg
 issues: 2
+status: 1
 mark: 50
 mod_ibom: hw/cam_profi/ADSBAFE01-ibom.html
 mod_scheme: doc/gen/ADSBAFE01-schematic.pdf
