@@ -1669,209 +1669,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:D_Dual_Series_ACK_Parallel"
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "D_Dual_Series_ACK_Parallel"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.27 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at -1.27 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Dual diode, anode/center/cathode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Dual_Series_ACK_Parallel_0_0"
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 3.81) (xy 2.54 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Dual_Series_ACK_Parallel_0_1"
-				(circle
-					(center -1.27 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.81) (xy 2.54 2.54) (xy 0 1.27) (xy 0 3.81) (xy 0 3.81) (xy 0 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy -1.27 2.54) (xy -1.27 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -1.27) (xy 0 -2.54) (xy 2.54 -3.81) (xy 2.54 -1.27) (xy 2.54 -1.27) (xy 2.54 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "common"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:D_Schottky"
 			(pin_numbers
 				(hide yes)
@@ -2991,7 +2788,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MLAB_HEADER:HEADER_2x02_PARALLEL"
+		(symbol "MLAB_HEADER:HEADER_2x03_PARALLEL"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2999,15 +2796,15 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 0 -3.81 0)
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Value" "HEADER_2x02_PARALLEL"
-				(at 0 3.81 0)
+			(property "Value" "HEADER_2x03_PARALLEL"
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -3015,7 +2812,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 1.27 0)
+				(at 0 2.54 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -3023,14 +2820,14 @@
 				)
 			)
 			(property "Datasheet" ""
-				(at 0 1.27 0)
+				(at 0 2.54 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Description" "2x02 2.54 mm pitch header, 2 pins next to each other are connected"
+			(property "Description" "2x03 2.54 mm pitch header, 2 pins next to each other are connected"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3039,7 +2836,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "2x02, header, connector, pinheader"
+			(property "ki_keywords" "2x03, header, connector, pinheader"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3048,10 +2845,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "HEADER_2x02_PARALLEL_0_1"
+			(symbol "HEADER_2x03_PARALLEL_0_1"
 				(rectangle
-					(start -2.54 2.54)
-					(end 2.54 -2.54)
+					(start -2.54 3.81)
+					(end 2.54 -3.81)
 					(stroke
 						(width 0)
 						(type default)
@@ -3062,7 +2859,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.651 1.27) (xy -2.54 1.27)
+						(xy -1.651 2.54) (xy -2.54 2.54)
 					)
 					(stroke
 						(width 0)
@@ -3074,41 +2871,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.651 -1.27) (xy -2.54 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 1.27)
-					(radius 0.381)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 -1.27)
-					(radius 0.381)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.889 1.27) (xy 0.889 1.27)
+						(xy -1.651 0) (xy -2.54 0)
 					)
 					(stroke
 						(width 0)
@@ -3120,7 +2883,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.889 -1.27) (xy 0.889 -1.27)
+						(xy -1.651 -2.54) (xy -2.54 -2.54)
 					)
 					(stroke
 						(width 0)
@@ -3131,7 +2894,7 @@
 					)
 				)
 				(circle
-					(center 1.27 1.27)
+					(center -1.27 2.54)
 					(radius 0.381)
 					(stroke
 						(width 0)
@@ -3142,7 +2905,87 @@
 					)
 				)
 				(circle
-					(center 1.27 -1.27)
+					(center -1.27 0)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.27 -2.54)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 2.54) (xy 0.889 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 0) (xy 0.889 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 -2.54) (xy 0.889 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 2.54)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 -2.54)
 					(radius 0.381)
 					(stroke
 						(width 0)
@@ -3153,9 +2996,9 @@
 					)
 				)
 			)
-			(symbol "HEADER_2x02_PARALLEL_1_1"
+			(symbol "HEADER_2x03_PARALLEL_1_1"
 				(pin input line
-					(at -6.35 1.27 0)
+					(at -6.35 2.54 0)
 					(length 3.81)
 					(name "~"
 						(effects
@@ -3173,7 +3016,7 @@
 					)
 				)
 				(pin input line
-					(at -6.35 1.27 0)
+					(at -6.35 2.54 0)
 					(length 3.81)
 					(hide yes)
 					(name "~"
@@ -3192,7 +3035,7 @@
 					)
 				)
 				(pin input line
-					(at -6.35 -1.27 0)
+					(at -6.35 0 0)
 					(length 3.81)
 					(name "~"
 						(effects
@@ -3210,7 +3053,7 @@
 					)
 				)
 				(pin input line
-					(at -6.35 -1.27 0)
+					(at -6.35 0 0)
 					(length 3.81)
 					(hide yes)
 					(name "~"
@@ -3221,6 +3064,43 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 -2.54 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 -2.54 0)
+					(length 3.81)
+					(hide yes)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5466,20 +5346,6 @@
 		)
 		(uuid "0c99663e-21d1-4fd5-ad66-2206a3d4fd5d")
 	)
-	(text "bypass res or solderjumper?"
-		(exclude_from_sim no)
-		(at 250.19 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "21b91001-5b6b-42a3-b998-39824f23a195")
-	)
 	(text "Comparator Reference Voltages"
 		(exclude_from_sim no)
 		(at 21.59 140.97 0)
@@ -5515,7 +5381,7 @@
 		)
 		(uuid "5b5ac459-80e8-4949-91db-5b5e6d5d6c6d")
 	)
-	(text "current limiting resistors\nas simple IO protection,\nmight be DNP"
+	(text "current limiting resistors\nas simple IO protection,\nmight be 0R"
 		(exclude_from_sim no)
 		(at 60.96 73.66 0)
 		(effects
@@ -5616,17 +5482,6 @@
 			(justify left bottom)
 		)
 		(uuid "8526374d-a19d-4214-a4c2-5269efef29b3")
-	)
-	(text "limits to 10-16dBm"
-		(exclude_from_sim no)
-		(at 175.26 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "95f745dc-d323-46a5-9b7a-ceaa8f37abe2")
 	)
 	(text "RF Signal Chain"
 		(exclude_from_sim no)
@@ -5781,19 +5636,6 @@
 		)
 		(uuid "e66111da-2507-40d8-b2a0-3cc677d0fff0")
 	)
-	(text "Limiter"
-		(exclude_from_sim no)
-		(at 175.26 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "eac46a38-986c-4822-9050-6e1e72b5b9c8")
-	)
 	(text "Power Detector"
 		(exclude_from_sim no)
 		(at 306.07 20.32 0)
@@ -5912,18 +5754,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "571157d9-d8dd-41ed-92bb-9c2f1caae09e")
-	)
-	(junction
-		(at 176.53 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5885a2e6-b341-4479-9ff4-adad0af575d1")
-	)
-	(junction
-		(at 181.61 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a375840-1f70-4ede-b3c9-0d0423d9f238")
 	)
 	(junction
 		(at 76.2 149.86)
@@ -6106,6 +5936,12 @@
 		(uuid "d7686a02-6774-46d1-80ca-65e5fb9151c9")
 	)
 	(junction
+		(at 46.99 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e541caad-5589-46ce-ba5b-daae23abfd7f")
+	)
+	(junction
 		(at 388.62 232.41)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -6154,16 +5990,6 @@
 			(type default)
 		)
 		(uuid "05377589-1fdf-4004-92cd-d1d28e77c938")
-	)
-	(wire
-		(pts
-			(xy 181.61 54.61) (xy 194.31 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "062c26f2-0644-4006-adbb-efed8d61bb65")
 	)
 	(wire
 		(pts
@@ -6224,6 +6050,16 @@
 			(type default)
 		)
 		(uuid "0bee0f54-10ba-4454-a806-bdd2f22cd9e4")
+	)
+	(wire
+		(pts
+			(xy 46.99 29.21) (xy 46.99 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cc011e8-4c4f-438f-88e2-d54e06d77678")
 	)
 	(polyline
 		(pts
@@ -7337,7 +7173,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 54.61) (xy 176.53 54.61)
+			(xy 165.1 54.61) (xy 194.31 54.61)
 		)
 		(stroke
 			(width 0)
@@ -7577,16 +7413,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 54.61) (xy 176.53 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9db6afa7-422b-4b52-ad36-5b509a722fd3")
-	)
-	(wire
-		(pts
 			(xy 384.81 90.17) (xy 382.27 90.17)
 		)
 		(stroke
@@ -7704,16 +7530,6 @@
 			(type default)
 		)
 		(uuid "ad14a776-b4ea-4d58-b91d-a3ed5405eb7b")
-	)
-	(wire
-		(pts
-			(xy 179.07 66.04) (xy 179.07 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad47df8c-ca4c-4aae-a657-911ba1f620b6")
 	)
 	(wire
 		(pts
@@ -8157,16 +7973,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 54.61) (xy 181.61 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfaa37f8-885f-495b-a625-3f23217d3258")
-	)
-	(wire
-		(pts
 			(xy 153.67 54.61) (xy 157.48 54.61)
 		)
 		(stroke
@@ -8204,6 +8010,16 @@
 			(type default)
 		)
 		(uuid "e228373d-62b5-4c06-bda5-6802b680e0ca")
+	)
+	(wire
+		(pts
+			(xy 45.72 29.21) (xy 46.99 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2d48736-274a-496a-b21f-0d5fae7db061")
 	)
 	(wire
 		(pts
@@ -8314,16 +8130,6 @@
 			(type default)
 		)
 		(uuid "eb82bfee-ce10-4f5b-bdbc-a9d6db5d1a81")
-	)
-	(wire
-		(pts
-			(xy 181.61 54.61) (xy 181.61 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eba94bff-9aad-4e50-833c-fbaea36efab4")
 	)
 	(wire
 		(pts
@@ -8686,7 +8492,7 @@
 		(uuid "944803c0-cd8f-4aa5-9f14-0931ca7062e3")
 	)
 	(label "MTL_LO_PWM"
-		(at 88.9 96.52 0)
+		(at 88.9 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8706,7 +8512,7 @@
 		(uuid "b1bac423-6575-47b3-9b1b-65f8fab72038")
 	)
 	(label "MTL_LO_BIAS"
-		(at 88.9 104.14 0)
+		(at 88.9 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8736,7 +8542,7 @@
 		(uuid "c7c480aa-f814-4e2f-b7a9-90579cea7460")
 	)
 	(label "MTL_HI_PWM"
-		(at 88.9 99.06 0)
+		(at 88.9 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10341,71 +10147,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 179.07 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "27241ec9-f64c-4013-9341-d28e4e753615")
-		(property "Reference" "#PWR041"
-			(at 179.07 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 179.07 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 179.07 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 179.07 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5bf5b391-9dee-42ca-a1e9-1928ceecea94")
-		)
-		(instances
-			(project "ADSBAFE01"
-				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
-					(reference "#PWR041")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 266.7 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11457,80 +11198,6 @@
 			(project "adsbee_1090"
 				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
 					(reference "#PWR9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MLAB_HEADER:HEADER_2x02_PARALLEL")
-		(at 39.37 33.02 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3dbfd24e-51b9-4c44-b5eb-46cecb2aeeb6")
-		(property "Reference" "J1"
-			(at 39.37 25.4 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "HEADER_2x02_PARALLEL"
-			(at 43.18 27.94 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Mlab_Pin_Headers:Straight_2x02"
-			(at 39.37 31.75 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 31.75 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2x02 2.54 mm pitch header, 2 pins next to each other are connected"
-			(at 39.37 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e8335ee4-6bb3-4f7e-bf2f-8724bfa63ad7")
-		)
-		(pin "2"
-			(uuid "958b86f1-0984-4e7c-b04e-9a6ae44bea69")
-		)
-		(pin "3"
-			(uuid "8c5eba8d-b1c8-4f6f-aa2d-6ce5ce8ae427")
-		)
-		(pin "4"
-			(uuid "d2d515da-f15a-45ac-aed1-db53e1586db2")
-		)
-		(instances
-			(project ""
-				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -13457,96 +13124,6 @@
 			(project "adsbee_1090"
 				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
 					(reference "#PWR3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Dual_Series_ACK_Parallel")
-		(at 179.07 60.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6c71e438-8fc3-4afb-9413-9bf4be9c43e4")
-		(property "Reference" "D4"
-			(at 184.15 59.6264 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SMP1330-005LF"
-			(at 180.34 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
-			(at 179.07 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cz.mouser.com/datasheet/3/564/1/SMP1330_Series_200050N.pdf"
-			(at 179.07 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual diode, anode/center/cathode"
-			(at 179.07 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFPN" "SMP1330-005LF"
-			(at 179.07 60.96 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 179.07 60.96 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "c14ca603-ae78-40ed-9dce-df269f02c885")
-		)
-		(pin "2"
-			(uuid "3c481a9f-40d1-4199-868b-ec86cfa177df")
-		)
-		(pin "1"
-			(uuid "a3ad87cf-474f-4cee-ab58-f8efc5d4b884")
-		)
-		(instances
-			(project ""
-				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
-					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -18876,6 +18453,86 @@
 			(project "ADSBAFE01"
 				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
 					(reference "#PWR39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MLAB_HEADER:HEADER_2x03_PARALLEL")
+		(at 39.37 31.75 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6369d43-ad80-499c-89a5-bbb0af37b5d2")
+		(property "Reference" "J4"
+			(at 39.37 24.13 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "HEADER_2x03_PARALLEL"
+			(at 39.37 26.67 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Mlab_Pin_Headers:Straight_2x03"
+			(at 39.37 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 29.21 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2x03 2.54 mm pitch header, 2 pins next to each other are connected"
+			(at 39.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "f663ce9a-455a-4c80-93b7-10e8e1fcdbcf")
+		)
+		(pin "1"
+			(uuid "89c32fa2-bbe6-4ecf-ba62-d845b8e1f58e")
+		)
+		(pin "2"
+			(uuid "b51ac345-abb7-488b-adfb-29e34480634a")
+		)
+		(pin "6"
+			(uuid "32747963-ad76-4888-98b4-2bf791fc4cad")
+		)
+		(pin "5"
+			(uuid "b9ea5417-8f87-4be2-b275-c3baf8a21c46")
+		)
+		(pin "3"
+			(uuid "49a0e61e-8efc-4daa-a57c-d0e57d5c515e")
+		)
+		(instances
+			(project ""
+				(path "/301ae253-2f9a-48f5-815b-056a42143f78"
+					(reference "J4")
 					(unit 1)
 				)
 			)

@@ -568,12 +568,7 @@
         "BAL_D90_C30_MS"
       ]
     },
-    "netclass_patterns": [
-      {
-        "netclass": "SE_50_CP",
-        "pattern": "/RF_*"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
