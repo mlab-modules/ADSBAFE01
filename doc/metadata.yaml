@@ -1,6 +1,6 @@
 description: Analog RF front-end for 1090 MHz ADS-B/Mode-S reception, designed to
   interface with MCU module.
-github_branch: ADSBAFE01A
+github_branch: layout_draft
 github_branches:
 - MODUL01A
 github_description: Analog RF front-end for 1090 MHz ADS-B/Mode-S reception, designed
@@ -23,4 +23,4 @@ mod_scheme: doc/gen/ADSBAFE01-schematic.pdf
 status: 1
 tags: []
 title: ADSBAFE01
-updated: '2026-02-16T20:32:21.922275+00:00'
+updated: '2026-02-18T00:44:20.975805+00:00'
