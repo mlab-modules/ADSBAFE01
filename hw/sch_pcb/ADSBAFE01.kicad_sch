@@ -8744,7 +8744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "ADSB_project_footprints:VSSOP-8_3x3mm_P0.65mm_small"
 			(at 77.47 248.92 0)
 			(effects
 				(font
@@ -15388,7 +15388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "ADSB_project_footprints:VSSOP-8_3x3mm_P0.65mm_small"
 			(at 377.19 67.31 0)
 			(effects
 				(font
