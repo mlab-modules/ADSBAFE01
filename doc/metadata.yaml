@@ -9,13 +9,13 @@ github_repo: ADSBAFE01
 github_url: https://github.com/mlab-modules/ADSBAFE01
 homepage: false
 images:
-- doc/gen/img/ADSBAFE01-top.png
 - doc/gen/img/ADSBAFE01-bottom.png
+- doc/gen/img/ADSBAFE01-top.png
 - doc/gen/ADSBAFE01-schematic.svg
 - doc/gen/img/ADSBAFE01-bottom.svg
 - doc/gen/img/ADSBAFE01-top.svg
-- hw/cam_profi/assembly/ADSBAFE01-assembly_page_01.svg
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_02.svg
+- hw/cam_profi/assembly/ADSBAFE01-assembly_page_01.svg
 issues: 2
 mark: 50
 mod_ibom: hw/cam_profi/ADSBAFE01-ibom.html
@@ -23,4 +23,4 @@ mod_scheme: doc/gen/ADSBAFE01-schematic.pdf
 status: 1
 tags: []
 title: ADSBAFE01
-updated: '2026-02-18T00:44:20.975805+00:00'
+updated: '2026-02-20T00:22:28.177506+00:00'
