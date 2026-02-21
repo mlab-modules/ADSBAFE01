@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.7,
-          "width": 0.6
+          "drill": 1.5,
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -124,12 +124,12 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.15,
-        "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_clearance": 0.2,
+        "min_connection": 0.2,
+        "min_copper_edge_clearance": 0.3,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.2,
-        "min_hole_to_hole": 0.5,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.3,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 1,
@@ -137,8 +137,8 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.15,
-        "min_via_annular_width": 0.005,
+        "min_track_width": 0.2,
+        "min_via_annular_width": 0.2,
         "min_via_diameter": 0.3,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -492,7 +492,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -504,13 +504,27 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.7,
+        "via_drill": 0.3
+      },
+      {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -518,11 +532,11 @@
         "microvia_drill": 0.1,
         "name": "SE_50_CP",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.8,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.5,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -570,8 +584,8 @@
     },
     "netclass_patterns": [
       {
-        "netclass": "SE_50_CP",
-        "pattern": "/RF_*"
+        "netclass": "Power",
+        "pattern": "*+3V3*"
       }
     ]
   },
@@ -637,10 +651,10 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -650,50 +664,20 @@
         },
         {
           "group_by": false,
-          "label": "REV",
-          "name": "REV",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Standard Cost",
-          "name": "Standard Cost",
+          "label": "Description",
+          "name": "Description",
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
+          "group_by": true,
           "label": "MPN",
           "name": "MPN",
           "show": true
         },
         {
           "group_by": false,
-          "label": "OEM PN",
-          "name": "OEM PN",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Note",
-          "name": "Note",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "UST_ID",
           "name": "UST_ID",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MFPN",
-          "name": "MFPN",
           "show": true
         }
       ],
@@ -702,7 +686,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "MPN"
     },
     "connection_grid_size": 50.0,
     "drawing": {
