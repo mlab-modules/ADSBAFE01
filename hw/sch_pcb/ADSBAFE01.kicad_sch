@@ -8772,43 +8772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.84"
-			(at 73.66 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 73.66 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "TLV3542IDGKR"
-			(at 73.66 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C2876465"
-			(at 73.66 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "TLV3542IDGKR"
 			(at 73.66 242.57 0)
 			(effects
 				(font
@@ -8895,7 +8859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 326.39 30.48 0)
 			(effects
 				(font
@@ -8904,44 +8868,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "RC0402FR-0710RL"
 			(at 326.39 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 326.39 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710RL"
-			(at 326.39 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C138066"
-			(at 326.39 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 326.39 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9018,15 +8946,6 @@
 		)
 		(property "UST_ID" ""
 			(at 388.62 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 388.62 234.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9165,44 +9084,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 50.8 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 50.8 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 50.8 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 50.8 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 50.8 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9414,7 +9297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" ""
 			(at 304.8 59.69 0)
 			(effects
 				(font
@@ -9423,43 +9306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "Looking for a wire wound inductor with similar performance to Coilcraft 0402HP-8N2."
-			(at 304.8 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.03"
-			(at 304.8 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" " SDWL1005C8N2JSTF"
-			(at 304.8 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" " C361505"
-			(at 304.8 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "0402HP-8N2XJRW"
 			(at 304.8 59.69 0)
 			(effects
 				(font
@@ -9535,43 +9382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.48"
-			(at 125.73 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" "Out of stock at LCSC."
-			(at 125.73 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "MCP6566T-E/LT"
-			(at 125.73 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C623508"
-			(at 125.73 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "MCP6566T-E/LT"
 			(at 125.73 204.47 0)
 			(effects
 				(font
@@ -9650,7 +9461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 55.88 36.83 0)
 			(effects
 				(font
@@ -9660,15 +9471,6 @@
 			)
 		)
 		(property "UST_ID" "5c70984812875079b91f8bbe"
-			(at 55.88 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
 			(at 55.88 36.83 0)
 			(effects
 				(font
@@ -9801,7 +9603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 341.63 63.5 0)
 			(effects
 				(font
@@ -9810,44 +9612,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "RC0402JR-070RL"
 			(at 341.63 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 341.63 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402JR-070RL"
-			(at 341.63 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60485"
-			(at 341.63 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 341.63 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10067,33 +9833,6 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" ""
-			(at 363.22 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 363.22 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 363.22 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4df4ce4b-b785-4081-861a-97c60703d897")
 		)
@@ -10226,43 +9965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
-			(at 57.15 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 57.15 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 57.15 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 57.15 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 57.15 156.21 0)
 			(effects
 				(font
@@ -10338,7 +10041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 68.58 36.83 0)
 			(effects
 				(font
@@ -10348,15 +10051,6 @@
 			)
 		)
 		(property "UST_ID" "5c70984712875079b91f8b4c"
-			(at 68.58 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
 			(at 68.58 36.83 0)
 			(effects
 				(font
@@ -10488,7 +10182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 361.95 96.52 0)
 			(effects
 				(font
@@ -10497,43 +10191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 361.95 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 361.95 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 361.95 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 361.95 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 361.95 96.52 0)
 			(effects
 				(font
@@ -10609,15 +10267,6 @@
 				(hide yes)
 			)
 		)
-		(property "REV" ""
-			(at 378.46 234.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f84dbc54-35b6-4f17-8826-b8641d40090b")
 		)
@@ -10683,44 +10332,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "CC0402JRNPO9BN390"
 			(at 161.29 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 161.29 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402JRNPO9BN390"
-			(at 161.29 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C106223"
-			(at 161.29 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 161.29 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10803,44 +10416,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11198,15 +10775,6 @@
 				(hide yes)
 			)
 		)
-		(property "REV" ""
-			(at 81.28 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6428f1b5-d563-4e86-b679-ea25c646b847")
 		)
@@ -11275,43 +10843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.06"
-			(at 87.63 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 87.63 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "PMEG2010ER,115"
-			(at 87.63 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C82288"
-			(at 87.63 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "PMEG2010ER,115"
 			(at 87.63 242.57 0)
 			(effects
 				(font
@@ -11395,44 +10927,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11508,44 +11004,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "CC0402JRNPO9BN390"
 			(at 232.41 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 232.41 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402JRNPO9BN390"
-			(at 232.41 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C106223"
-			(at 232.41 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 232.41 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11692,43 +11152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.14"
-			(at 257.81 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" "Not available from LCSC."
-			(at 257.81 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "BGA2818,115"
-			(at 257.81 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "None"
-			(at 257.81 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "BGA2818,115"
 			(at 257.81 54.61 0)
 			(effects
 				(font
@@ -11831,15 +11255,6 @@
 				(hide yes)
 			)
 		)
-		(property "REV" ""
-			(at 393.7 234.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "79ed849b-e3f1-4ec0-ad4e-c224ad7f3570")
 		)
@@ -11907,44 +11322,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.07"
+		(property "MPN" "ESD7351XV2T1G"
 			(at 153.67 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" "Substituted with TECH PUBLIC dupe due to no stock of onsemi part."
-			(at 153.67 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "ESD7351XV2T1G"
-			(at 153.67 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C2912559"
-			(at 153.67 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 153.67 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12020,44 +11399,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 130.81 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 130.81 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 130.81 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 130.81 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 130.81 194.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12206,43 +11549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
-			(at 140.97 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 140.97 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R9BB223"
-			(at 140.97 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C107026"
-			(at 140.97 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "CC0402KRX7R9BB223"
 			(at 140.97 257.81 0)
 			(effects
 				(font
@@ -12324,15 +11631,6 @@
 				(hide yes)
 			)
 		)
-		(property "REV" ""
-			(at 383.54 234.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c22d0a05-5cbf-4b62-8771-e8d041d25b03")
 		)
@@ -12389,7 +11687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 377.19 49.53 0)
 			(effects
 				(font
@@ -12398,44 +11696,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 377.19 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 377.19 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 377.19 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 377.19 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 377.19 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12513,43 +11775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
-			(at 57.15 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 57.15 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 57.15 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 57.15 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 57.15 184.15 0)
 			(effects
 				(font
@@ -12697,43 +11923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.07"
-			(at 88.9 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 88.9 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "SN74LVC1G3157DCKR"
-			(at 88.9 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C38663"
-			(at 88.9 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 88.9 175.26 0)
 			(effects
 				(font
@@ -12893,43 +12083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.07"
-			(at 129.54 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 129.54 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "SN74LVC1G3157DCKR"
-			(at 129.54 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C38663"
-			(at 129.54 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 129.54 250.19 0)
 			(effects
 				(font
@@ -13083,44 +12237,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 119.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 119.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 119.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 119.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 119.38 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13196,44 +12314,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 88.9 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 88.9 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 88.9 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 88.9 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 88.9 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13316,44 +12398,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13420,7 +12466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 257.81 73.66 0)
 			(effects
 				(font
@@ -13429,44 +12475,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "RC0402JR-070RL"
 			(at 257.81 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 257.81 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402JR-070RL"
-			(at 257.81 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60485"
-			(at 257.81 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 257.81 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13533,7 +12543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 314.96 39.37 0)
 			(effects
 				(font
@@ -13542,44 +12552,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 314.96 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 314.96 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 314.96 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 314.96 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 314.96 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13785,44 +12759,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "CC0402KRX7R9BB223"
 			(at 261.62 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 261.62 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R9BB223"
-			(at 261.62 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C107026"
-			(at 261.62 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 261.62 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13895,7 +12833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 332.74 39.37 0)
 			(effects
 				(font
@@ -13904,44 +12842,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 332.74 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 332.74 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CC0402KRX7R7BB104"
-			(at 332.74 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60474"
-			(at 332.74 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 332.74 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14083,44 +12985,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14197,44 +13063,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14431,7 +13261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 285.75 64.77 0)
 			(effects
 				(font
@@ -14440,44 +13270,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "CQ0402CRNPO9BN3R0"
 			(at 285.75 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 285.75 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CQ0402CRNPO9BN3R0"
-			(at 285.75 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1855211"
-			(at 285.75 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 285.75 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14564,15 +13358,6 @@
 				(hide yes)
 			)
 		)
-		(property "REV" ""
-			(at 328.93 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "edce5a9e-66e3-45f1-b286-cbf7e8dce26c")
 		)
@@ -14640,43 +13425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 323.85 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "3.35"
-			(at 323.85 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "AD8313ARMZ"
-			(at 323.85 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C481897"
-			(at 323.85 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "AD8313ARMZ"
 			(at 323.85 60.96 0)
 			(effects
 				(font
@@ -14828,7 +13577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 105.41 259.08 0)
 			(effects
 				(font
@@ -14837,43 +13586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 105.41 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 105.41 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0720RL"
-			(at 105.41 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C138031"
-			(at 105.41 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "RC0402FR-0720RL"
 			(at 105.41 259.08 0)
 			(effects
 				(font
@@ -15018,43 +13731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "1.10"
-			(at 204.47 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" "Out of stock at LCSC."
-			(at 204.47 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "SF2321D"
-			(at 204.47 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C3283372"
-			(at 204.47 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "SF2321D"
 			(at 204.47 54.61 0)
 			(effects
 				(font
@@ -15416,43 +14093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.84"
-			(at 373.38 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 373.38 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "TLV3542IDGKR"
-			(at 373.38 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C2876465"
-			(at 373.38 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "TLV3542IDGKR"
 			(at 373.38 60.96 0)
 			(effects
 				(font
@@ -15538,7 +14179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 285.75 54.61 0)
 			(effects
 				(font
@@ -15547,44 +14188,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "CQ0402CRNPO9BN3R0"
 			(at 285.75 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 285.75 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "CQ0402CRNPO9BN3R0"
-			(at 285.75 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1855211"
-			(at 285.75 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 285.75 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15661,44 +14266,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 50.8 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 50.8 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 50.8 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 50.8 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 50.8 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15781,44 +14350,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15961,44 +14494,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16066,7 +14563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 321.31 30.48 0)
 			(effects
 				(font
@@ -16075,44 +14572,8 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
+		(property "MPN" "RC0402FR-0710RL"
 			(at 321.31 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 321.31 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710RL"
-			(at 321.31 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C138066"
-			(at 321.31 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 321.31 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16180,15 +14641,6 @@
 			)
 		)
 		(property "Description" "2x12 2.54 mm pitch header, 2 pins next to each other are connected"
-			(at 36.83 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
 			(at 36.83 95.25 0)
 			(effects
 				(font
@@ -16399,44 +14851,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.54"
+		(property "MPN" "MCP4017T-104E/LT"
 			(at 374.65 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 374.65 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "MCP4017T-104E/LT"
-			(at 374.65 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C510890"
-			(at 374.65 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 374.65 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16526,43 +14942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
-			(at 146.05 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 146.05 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-071KL"
-			(at 146.05 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C106235"
-			(at 146.05 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "RC0402FR-071KL"
 			(at 146.05 196.85 0)
 			(effects
 				(font
@@ -16636,7 +15016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 92.71 97.79 0)
 			(effects
 				(font
@@ -16645,43 +15025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 92.71 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 92.71 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-071KL"
-			(at 92.71 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C106235"
-			(at 92.71 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "RC0402FR-071KL"
 			(at 92.71 97.79 0)
 			(effects
 				(font
@@ -16759,44 +15103,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16944,44 +15252,8 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.01"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 64.77 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 64.77 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-0710KL"
-			(at 64.77 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C60490"
-			(at 64.77 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 64.77 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17058,34 +15330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" "0.41"
-			(at 139.7 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" "(80) suffix denotes reel size, can be substituted."
-			(at 139.7 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" " U.FL-R-SMT-1(80)"
-			(at 139.7 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C88374"
+		(property "MPN" " U.FL-R-SMT-1(80)"
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -17095,15 +15340,6 @@
 			)
 		)
 		(property "UST_ID" ""
-			(at 139.7 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -17316,33 +15552,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 45.72 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" ""
-			(at 45.72 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 45.72 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
 			(at 45.72 204.47 0)
 			(effects
 				(font
@@ -17675,7 +15884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 350.52 83.82 0)
 			(effects
 				(font
@@ -17684,43 +15893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 350.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 350.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-071KL"
-			(at 350.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C106235"
-			(at 350.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "RC0402FR-071KL"
 			(at 350.52 83.82 0)
 			(effects
 				(font
@@ -18015,33 +16188,6 @@
 				(hide yes)
 			)
 		)
-		(property "Standard Cost" ""
-			(at 113.03 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Note" ""
-			(at 113.03 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
-			(at 113.03 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "1c121c37-97cb-4671-85b2-581935ef08fb")
 		)
@@ -18162,7 +16308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 97.79 97.79 0)
 			(effects
 				(font
@@ -18171,43 +16317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" ""
-			(at 97.79 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Standard Cost" "0.01"
-			(at 97.79 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEM PN" "RC0402FR-071KL"
-			(at 97.79 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C106235"
-			(at 97.79 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "REV" ""
+		(property "MPN" "RC0402FR-071KL"
 			(at 97.79 97.79 0)
 			(effects
 				(font

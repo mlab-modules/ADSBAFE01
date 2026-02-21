@@ -829,7 +829,7 @@
 				)
 			)
 		)
-		(property "MPN" "C88374"
+		(property "MPN" " U.FL-R-SMT-1(80)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1788,7 +1788,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C2912559"
+		(property "MPN" "ESD7351XV2T1G"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2068,7 +2068,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -2123,7 +2123,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C138066"
+		(property "MPN" "RC0402FR-0710RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2340,7 +2340,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2502,7 +2502,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -2557,7 +2557,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2774,7 +2774,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2991,7 +2991,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3208,7 +3208,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3573,7 +3573,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C107026"
+		(property "MPN" "CC0402KRX7R9BB223"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3735,7 +3735,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -3910,7 +3910,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -3965,7 +3965,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1855211"
+		(property "MPN" "CQ0402CRNPO9BN3R0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4184,7 +4184,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C481897"
+		(property "MPN" "AD8313ARMZ"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4508,7 +4508,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -4563,7 +4563,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C106235"
+		(property "MPN" "RC0402FR-071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4725,7 +4725,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -4780,7 +4780,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C138031"
+		(property "MPN" "RC0402FR-0720RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5090,7 +5090,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -5145,7 +5145,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5363,7 +5363,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C38663"
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5701,7 +5701,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C2876465"
+		(property "MPN" "TLV3542IDGKR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6140,7 +6140,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6357,7 +6357,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6574,7 +6574,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C107026"
+		(property "MPN" "CC0402KRX7R9BB223"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6791,7 +6791,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6953,7 +6953,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -7008,7 +7008,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C106235"
+		(property "MPN" "RC0402FR-071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7225,7 +7225,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C106235"
+		(property "MPN" "RC0402FR-071KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7442,7 +7442,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7659,7 +7659,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C106223"
+		(property "MPN" "CC0402JRNPO9BN390"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7876,7 +7876,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8038,7 +8038,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -8093,7 +8093,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C138066"
+		(property "MPN" "RC0402FR-0710RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8310,7 +8310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8472,7 +8472,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -8527,7 +8527,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C106235"
+		(property "MPN" "RC0402FR-071KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8744,7 +8744,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8906,7 +8906,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -8961,7 +8961,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60485"
+		(property "MPN" "RC0402JR-070RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9123,7 +9123,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -9178,7 +9178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9397,7 +9397,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C510890"
+		(property "MPN" "MCP4017T-104E/LT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9998,7 +9998,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -10053,7 +10053,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60485"
+		(property "MPN" "RC0402JR-070RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10215,7 +10215,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -10445,7 +10445,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10663,7 +10663,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "None"
+		(property "MPN" "BGA2818,115"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11000,7 +11000,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C106223"
+		(property "MPN" "CC0402JRNPO9BN390"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11819,7 +11819,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C38663"
+		(property "MPN" "SN74LVC1G3157DCKR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12308,7 +12308,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12526,7 +12526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C82288"
+		(property "MPN" "PMEG2010ER,115"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12829,7 +12829,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12885,7 +12885,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " C361505"
+		(property "MPN" "0402HP-8N2XJRW"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13087,7 +13087,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13142,7 +13142,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60474"
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13359,7 +13359,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13576,7 +13576,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13794,7 +13794,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C623508"
+		(property "MPN" "MCP6566T-E/LT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14122,7 +14122,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C60490"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14284,7 +14284,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -14339,7 +14339,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1855211"
+		(property "MPN" "CQ0402CRNPO9BN3R0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14557,7 +14557,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C3283372"
+		(property "MPN" "SF2321D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17877,9 +17877,9 @@
 				(xy 125.823448 109.536552) (xy 125.889769 109.580867) (xy 125.934231 109.589711) (xy 125.948241 109.592498)
 				(xy 125.948246 109.592498) (xy 125.948252 109.5925) (xy 125.948253 109.5925) (xy 127.511747 109.5925)
 				(xy 127.511748 109.5925) (xy 127.570231 109.580867) (xy 127.636552 109.536552) (xy 127.680867 109.470231)
-				(xy 127.6925 109.411748) (xy 127.6925 108.8845) (xy 127.711407 108.826309) (xy 127.760907 108.790345)
-				(xy 127.7915 108.7855) (xy 128.2085 108.7855) (xy 128.266691 108.804407) (xy 128.302655 108.853907)
-				(xy 128.3075 108.8845) (xy 128.3075 109.411746) (xy 128.307501 109.411758) (xy 128.319132 109.470227)
+				(xy 127.6925 109.411748) (xy 127.6925 109.0545) (xy 127.711407 108.996309) (xy 127.760907 108.960345)
+				(xy 127.7915 108.9555) (xy 128.2085 108.9555) (xy 128.266691 108.974407) (xy 128.302655 109.023907)
+				(xy 128.3075 109.0545) (xy 128.3075 109.411746) (xy 128.307501 109.411758) (xy 128.319132 109.470227)
 				(xy 128.319134 109.470233) (xy 128.336807 109.496682) (xy 128.363448 109.536552) (xy 128.429769 109.580867)
 				(xy 128.474231 109.589711) (xy 128.488241 109.592498) (xy 128.488246 109.592498) (xy 128.488252 109.5925)
 				(xy 128.488253 109.5925) (xy 130.051747 109.5925) (xy 130.051748 109.5925) (xy 130.110231 109.580867)
@@ -17894,7 +17894,7 @@
 				(xy 134.4505 108.527525) (xy 134.412984 108.387515) (xy 134.412982 108.387512) (xy 134.412982 108.38751)
 				(xy 134.340512 108.261989) (xy 134.34051 108.261987) (xy 134.340509 108.261985) (xy 134.238015 108.159491)
 				(xy 134.238012 108.159489) (xy 134.23801 108.159487) (xy 134.112488 108.087017) (xy 134.112489 108.087017)
-				(xy 134.0344 108.066093) (xy 133.972475 108.0495) (xy 133.827525 108.0495) (xy 133.76579 108.066041)
+				(xy 134.082896 108.079087) (xy 133.972475 108.0495) (xy 133.827525 108.0495) (xy 133.76579 108.066041)
 				(xy 133.68751 108.087017) (xy 133.561989 108.159487) (xy 133.561988 108.159488) (xy 133.561985 108.15949)
 				(xy 133.561985 108.159491) (xy 133.47597 108.245505) (xy 133.421456 108.273281) (xy 133.405969 108.2745)
 				(xy 130.3315 108.2745) (xy 130.273309 108.255593) (xy 130.237345 108.206093) (xy 130.2325 108.1755)
@@ -17903,9 +17903,9 @@
 				(xy 130.110228 107.679132) (xy 130.110227 107.679132) (xy 130.051758 107.667501) (xy 130.051748 107.6675)
 				(xy 128.488252 107.6675) (xy 128.488251 107.6675) (xy 128.488241 107.667501) (xy 128.429772 107.679132)
 				(xy 128.429766 107.679134) (xy 128.363451 107.723445) (xy 128.363445 107.723451) (xy 128.319134 107.789766)
-				(xy 128.319132 107.789772) (xy 128.307501 107.848241) (xy 128.3075 107.848253) (xy 128.3075 108.0355)
-				(xy 128.288593 108.093691) (xy 128.239093 108.129655) (xy 128.2085 108.1345) (xy 127.7915 108.1345)
-				(xy 127.733309 108.115593) (xy 127.697345 108.066093) (xy 127.6925 108.0355) (xy 127.6925 107.848253)
+				(xy 128.319132 107.789772) (xy 128.307501 107.848241) (xy 128.3075 107.848253) (xy 128.3075 108.2055)
+				(xy 128.288593 108.263691) (xy 128.239093 108.299655) (xy 128.2085 108.3045) (xy 127.7915 108.3045)
+				(xy 127.733309 108.285593) (xy 127.697345 108.236093) (xy 127.6925 108.2055) (xy 127.6925 107.848253)
 				(xy 127.692498 107.848241) (xy 127.689711 107.834231) (xy 127.680867 107.789769) (xy 127.636552 107.723448)
 				(xy 127.636548 107.723445) (xy 127.570233 107.679134) (xy 127.570231 107.679133) (xy 127.570228 107.679132)
 				(xy 127.570227 107.679132) (xy 127.511758 107.667501) (xy 127.511748 107.6675) (xy 125.948252 107.6675)

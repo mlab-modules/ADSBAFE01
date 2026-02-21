@@ -651,10 +651,10 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -664,50 +664,20 @@
         },
         {
           "group_by": false,
-          "label": "REV",
-          "name": "REV",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Standard Cost",
-          "name": "Standard Cost",
+          "label": "Description",
+          "name": "Description",
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
+          "group_by": true,
           "label": "MPN",
           "name": "MPN",
           "show": true
         },
         {
           "group_by": false,
-          "label": "OEM PN",
-          "name": "OEM PN",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Note",
-          "name": "Note",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "UST_ID",
           "name": "UST_ID",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MFPN",
-          "name": "MFPN",
           "show": true
         }
       ],
@@ -716,7 +686,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "MPN"
     },
     "connection_grid_size": 50.0,
     "drawing": {
