@@ -1,26 +1,27 @@
-Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,standard cost,oem pn,mpn,ust_id,note
-1,Unpolarized capacitor,C,C9C10,3pF,C_0402_1005Metric,2,~,0.01,CQ0402CRNPO9BN3R0,C1855211,,
-2,Unpolarized capacitor,C,C7C8,39pF,C_0402_1005Metric,2,~,0.01,CC0402JRNPO9BN390,C106223,,
-3,Unpolarized capacitor,C,C2C15,22nF,C_0402_1005Metric,2,~,0.01,CC0402KRX7R9BB223,C107026,,
-4,Unpolarized capacitor,C,C1C3C4C5C6C11C12C13C14,0.1uF,C_0402_1005Metric,9,~,0.01,CC0402KRX7R7BB104,C60474,,
-5,Unpolarized capacitor,C,C16,100nF,C_0805_2012Metric,1,~,,,,5c70984712875079b91f8b4c,
-6,Unpolarized capacitor,C,C17,10uF,C_0805_2012Metric,1,~,,,,5c70984812875079b91f8bbe,
-7,Schottky diode,D_Schottky,D2,20V 1A,D_SOD-123,1,~,0.06,"PMEG2010ER,115",C82288,,
-8,Bidirectional transient-voltage-suppression diode,D_TVS,D1,3.3VWM 0.6pF,D_SOD-523,1,https://www.onsemi.com/pdf/datasheet/esd7351-d.pdf,0.07,ESD7351XV2T1G,C2912559,,Substituted with TECH PUBLIC dupe due to no stock of onsemi part.
-9,Zener diode,D_Zener,D3,"BZV55C-6,2V",D_MiniMELF,1,~,,,,604b0326128750769e5b0f93,
-10,"2x03 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x03_PARALLEL,J2,3.3-5V,Straight_2x03,1,,,,,,
-11,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J1,MCX 6GHz 50R,MCX,1,~,0.41,U.FL-R-SMT-1(80),C88374,,"(80) suffix denotes reel size, can be substituted."
-12,Inductor,L,L1,8.2nH RF,L_0402_1005Metric,1,~,0.03,SDWL1005C8N2JSTF,C361505,,Looking for a wire wound inductor with similar performance to Coilcraft 0402HP-8N2.
-13,Two-piece EMI RF shielding cabinet,RFShield_TwoPieces,M5,RFShield_TwoPieces,Laird_Technologies_BMI-S-204-F_32.00x32.00mm,1,~,,,,5c72751c1287500b4e11301a,
-14,"Resistor, US symbol",R_US,R5,0R,R_0402_1005Metric,1,~,0.01,RC0402JR-070RL,C60485,,
-15,"Resistor, US symbol",R_US,R2R3,10R,R_0402_1005Metric,2,~,0.01,RC0402FR-0710RL,C138066,,
-16,"Resistor, US symbol",R_US,R8,20R,R_0402_1005Metric,1,~,0.01,RC0402FR-0720RL,C138031,,
-17,"Resistor, US symbol",R_US,R6R7,1k,R_0402_1005Metric,2,~,0.01,RC0402FR-071KL,C106235,,
-18,"Resistor, US symbol",R_US,R1R4,10k,R_0402_1005Metric,2,~,0.01,RC0402FR-0710KL,C60490,,
-19,SPDT Analog Switch 1.65V-5.5V 0.5ns 6R,SN74LVC1G3157,SW1SW2,SN74LVC1G3157,SOT-363_SC-70-6,2,https://www.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf,0.07,SN74LVC1G3157DCKR,C38663,,
-20,"100 MHz to 2.5 GHz, 80 dB Logarithmic Detector / Controller, MSOP-8",AD8313xRM,U2,AD8313xRM,MSOP-8_3x3mm_P0.65mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/AD8313.pdf,3.35,AD8313ARMZ,C481897,,
-21,"MMIC wideband amplifier, DC-2.2GHz, +30dB @ 2150MHz, 3.3V, SOT-363",BGA2818,U1,BGA2818,SOT-363_SC-70-6,1,https://www.nxp.com/docs/en/data-sheet/BGA2818.pdf,0.14,"BGA2818,115",None,,Not available from LCSC.
-22,"Low-Cost 128-Step Volatile I2C Digital Potentiometer, SC-70-6",MCP4017-xxxxLT,U4,MCP4017-104E 100k,SOT-363_SC-70-6,1,http://ww1.microchip.com/downloads/en/DeviceDoc/22147a.pdf,0.54,MCP4017T-104E/LT,C510890,,
-23,"Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5/SC-70",MCP6566,U5,MCP6566,SOT-353_SC-70-5,1,http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf,0.48,MCP6566T-E/LT,C623508,,Out of stock at LCSC.
-24,"200-MHz, Rail-to-Rail I/O, VSSOP-8",TLV3542,U3,TLV3542,VSSOP-8_3.0x3.0mm_P0.65mm,1,https://www.ti.com/lit/ds/symlink/tlv3542.pdf,0.84,TLV3542IDGKR,C2876465,,
-25,"Bandpass Filter, SAW filter 6-pin",SAW-6 Filter,X1,SF2321D,Filter_SAW-6_3.8x3.8mm,1,https://www.mouser.com/datasheet/2/1100/sf2321d-1917641.pdf,1.10,SF2321D,C3283372,,Out of stock at LCSC.
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,mpn,ust_id
+1,Unpolarized capacitor,C,C12C13,3pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,~,CQ0402CRNPO9BN3R0,
+2,Unpolarized capacitor,C,C9C10,39pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,~,CC0402JRNPO9BN390,
+3,Unpolarized capacitor,C,C8C11,22nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,~,CC0402KRX7R9BB223,
+4,Unpolarized capacitor,C,C2C3C5C6C7C14C15C16C17,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,9,~,CC0402KRX7R7BB104,
+5,Unpolarized capacitor,C,C4,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,,5c70984712875079b91f8b4c
+6,Unpolarized capacitor,C,C1,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,,5c70984812875079b91f8bbe
+7,Schottky diode,D_Schottky,D2,20V 1A,D_SOD-123,1,~,"PMEG2010ER,115",
+8,Bidirectional transient-voltage-suppression diode,D_TVS,D3,3.3VWM 0.6pF,D_SOD-523,1,https://www.onsemi.com/pdf/datasheet/esd7351-d.pdf,ESD7351XV2T1G,
+9,Zener diode,D_Zener,D1,"BZV55C-6,2V",D_MiniMELF,1,~,,604b0326128750769e5b0f93
+10,"2x03 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x03_PARALLEL,J2,HEADER_2x03_PARALLEL,Straight_2x03,1,,,
+11,"2x12 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x12_PARALLEL,J1,HEADER_2x12_PARALLEL,Straight_2x12,1,,,
+12,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J3,MCX 6GHz 50R,MCX,1,~,U.FL-R-SMT-1(80),
+13,Inductor,L,L1,8.2nH RF,L_0402_1005Metric,1,~,0402HP-8N2XJRW,
+14,Two-piece EMI RF shielding cabinet,RFShield_TwoPieces,M1,RFShield_TwoPieces,Laird_Technologies_BMI-S-204-F_32.00x32.00mm,1,~,,5c72751c1287500b4e11301a
+15,Resistor,R,R16R19,0R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,~,RC0402JR-070RL,
+16,Resistor,R,R17R18,10R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,~,RC0402FR-0710RL,
+17,Resistor,R,R3R4R5R6R7R8R9R10R11R14,20R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,10,~,RC0402FR-0710KL RC0402FR-0720RL,
+18,Resistor,R,R12R13R15R20,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4,~,RC0402FR-071KL,
+19,Resistor,R,R1R2,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,~,RC0402FR-0710KL,
+20,,SN74LVC1G3157,SW1SW2,SN74LVC1G3157,SOT-363_SC-70-6,2,https://www.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf,SN74LVC1G3157DCKR,
+21,"100 MHz to 2.5 GHz, 80 dB Logarithmic Detector / Controller, MSOP-8",AD8313xRM,U4,AD8313xRM,MSOP-8_3x3mm_P0.65mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/AD8313.pdf,AD8313ARMZ,
+22,"MMIC wideband amplifier, DC-2.2GHz, +30dB @ 2150MHz, 3.3V, SOT-363",BGA2818,U3,BGA2818,SOT-363_SC-70-6,1,https://www.nxp.com/docs/en/data-sheet/BGA2818.pdf,"BGA2818,115",
+23,"Low-Cost 128-Step Volatile I2C Digital Potentiometer, SC-70-6",MCP4017-xxxxLT,U5,MCP4017-104E 100k,SOT-363_SC-70-6,1,http://ww1.microchip.com/downloads/en/DeviceDoc/22147a.pdf,MCP4017T-104E/LT,
+24,"Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5/SC-70",MCP6566,U2,MCP6566,SOT-353_SC-70-5,1,http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf,MCP6566T-E/LT,
+25,"200-MHz, Rail-to-Rail I/O, VSSOP-8",TLV3542,U1,TLV3542,VSSOP-8_3x3mm_P0.65mm_small,1,https://www.ti.com/lit/ds/symlink/tlv3542.pdf,TLV3542IDGKR,
+26,,SAW-6_Filter,X1,SF2321D,Filter_SAW-6_3.8x3.8mm,1,https://www.mouser.com/datasheet/2/1100/sf2321d-1917641.pdf,SF2321D,
