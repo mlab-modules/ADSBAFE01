@@ -1,13 +1,12 @@
 description: Analog RF front-end for 1090 MHz ADS-B/Mode-S reception, designed to
   interface with MCU module.
 github_branch: ADSBAFE01A
-github_branches:
-- MODUL01A
 github_description: Analog RF front-end for 1090 MHz ADS-B/Mode-S reception, designed
   to interface with MCU module.
 github_repo: ADSBAFE01
 github_url: https://github.com/mlab-modules/ADSBAFE01
 homepage: false
+image_title: doc/gen/img/ADSBAFE01-top.png
 images:
 - doc/gen/img/ADSBAFE01-bottom.png
 - doc/gen/img/ADSBAFE01-top.png
@@ -17,6 +16,7 @@ images:
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_02.svg
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_01.svg
 issues: 2
+status: 2
 mark: 50
 mod_ibom: hw/cam_profi/ADSBAFE01-ibom.html
 mod_scheme: doc/gen/ADSBAFE01-schematic.pdf
