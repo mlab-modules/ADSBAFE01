@@ -7,6 +7,8 @@
 	(title_block
 		(title "ADSBAFE01A")
 		(date "2026-02-08")
+		(company "Mlab.cz")
+		(comment 1 "Analog RF front-end for 1090 MHz\\nADS-B/Mode-S reception, designed to\\ninterface with MCU module. ")
 	)
 	(lib_symbols
 		(symbol "ADSB_projectlib:SAW-6_Filter"
@@ -5380,17 +5382,6 @@
 			(justify left)
 		)
 		(uuid "5b5ac459-80e8-4949-91db-5b5e6d5d6c6d")
-	)
-	(text "current limiting resistors\nas simple IO protection,\nmight be 0R"
-		(exclude_from_sim no)
-		(at 54.61 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5f725d53-cdfd-4367-8d55-10a50442a4d7")
 	)
 	(text "100k Digital Potentiometer\nfor Adjustable Gain\nA_min = 0\nA_max = 101"
 		(exclude_from_sim no)
