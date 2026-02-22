@@ -16,11 +16,10 @@ images:
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_02.svg
 - hw/cam_profi/assembly/ADSBAFE01-assembly_page_01.svg
 issues: 2
-status: 2
 mark: 50
 mod_ibom: hw/cam_profi/ADSBAFE01-ibom.html
 mod_scheme: doc/gen/ADSBAFE01-schematic.pdf
 status: 1
 tags: []
 title: ADSBAFE01
-updated: '2026-02-22T15:50:58.680103+00:00'
+updated: '2026-02-22T18:00:21.001291+00:00'
