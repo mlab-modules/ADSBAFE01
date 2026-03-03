@@ -8735,7 +8735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADSB_project_footprints:VSSOP-8_3x3mm_P0.65mm_small"
+		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
 			(at 77.47 248.92 0)
 			(effects
 				(font
@@ -8764,6 +8764,15 @@
 			)
 		)
 		(property "MPN" "TLV3542IDGKR"
+			(at 73.66 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "UST_ID" ""
 			(at 73.66 242.57 0)
 			(effects
 				(font
@@ -13695,7 +13704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADSB_project_footprints:Filter_SAW-6_3.8x3.8mm"
+		(property "Footprint" "MLAB_SAW:Filter_SAW-6_3.8x3.8mm"
 			(at 204.47 45.72 0)
 			(effects
 				(font
@@ -13723,6 +13732,15 @@
 			)
 		)
 		(property "MPN" "SF2321D"
+			(at 204.47 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "UST_ID" ""
 			(at 204.47 54.61 0)
 			(effects
 				(font
@@ -14056,7 +14074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADSB_project_footprints:VSSOP-8_3x3mm_P0.65mm_small"
+		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
 			(at 377.19 67.31 0)
 			(effects
 				(font
@@ -14085,6 +14103,15 @@
 			)
 		)
 		(property "MPN" "TLV3542IDGKR"
+			(at 373.38 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "UST_ID" ""
 			(at 373.38 60.96 0)
 			(effects
 				(font
