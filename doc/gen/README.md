@@ -121,7 +121,7 @@ The stencil thickness is  0.12 mm.
 
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
-| Total  |             161 |     186.59 |      0.93 |
+| Total  |             161 |     187.31 |      0.93 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 

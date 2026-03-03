@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ADSBAFE01.kicad_sch</source>
-    <date>2026-02-22T15:50:19+0000</date>
+    <date>2026-03-03T01:07:50+0000</date>
     <tool>Eeschema 9.0.7+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1027,17 +1027,19 @@
     </comp>
     <comp ref="U1">
       <value>TLV3542</value>
-      <footprint>ADSB_project_footprints:VSSOP-8_3x3mm_P0.65mm_small</footprint>
+      <footprint>Package_SO:VSSOP-8_3x3mm_P0.65mm</footprint>
       <datasheet>https://www.ti.com/lit/ds/symlink/tlv3542.pdf</datasheet>
       <description>200-MHz, Rail-to-Rail I/O, VSSOP-8</description>
       <fields>
         <field name="MPN">TLV3542IDGKR</field>
-        <field name="Footprint">ADSB_project_footprints:VSSOP-8_3x3mm_P0.65mm_small</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">Package_SO:VSSOP-8_3x3mm_P0.65mm</field>
         <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tlv3542.pdf</field>
         <field name="Description">200-MHz, Rail-to-Rail I/O, VSSOP-8</field>
       </fields>
       <libsource lib="ADSB_projectlib" part="TLV3542" description="200-MHz, Rail-to-Rail I/O, VSSOP-8"/>
       <property name="MPN" value="TLV3542IDGKR"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ADSBAFE01.kicad_sch"/>
       <property name="ki_keywords" value="operational amplifier opamp high-speed"/>
@@ -1125,16 +1127,18 @@
     </comp>
     <comp ref="X1">
       <value>SF2321D</value>
-      <footprint>ADSB_project_footprints:Filter_SAW-6_3.8x3.8mm</footprint>
+      <footprint>MLAB_SAW:Filter_SAW-6_3.8x3.8mm</footprint>
       <datasheet>https://www.mouser.com/datasheet/2/1100/sf2321d-1917641.pdf</datasheet>
       <fields>
         <field name="MPN">SF2321D</field>
-        <field name="Footprint">ADSB_project_footprints:Filter_SAW-6_3.8x3.8mm</field>
+        <field name="UST_ID"/>
+        <field name="Footprint">MLAB_SAW:Filter_SAW-6_3.8x3.8mm</field>
         <field name="Datasheet">https://www.mouser.com/datasheet/2/1100/sf2321d-1917641.pdf</field>
         <field name="Description"/>
       </fields>
       <libsource lib="ADSB_projectlib" part="SAW-6_Filter" description=""/>
       <property name="MPN" value="SF2321D"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ADSBAFE01.kicad_sch"/>
       <property name="ki_keywords" value="SAW Filter bandpass"/>
