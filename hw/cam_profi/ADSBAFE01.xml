@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ADSBAFE01.kicad_sch</source>
-    <date>2026-03-03T01:07:50+0000</date>
-    <tool>Eeschema 9.0.7+1</tool>
+    <date>2026-05-16T02:45:50</date>
+    <tool>Eeschema 10.0.1-10.0.1~ubuntu25.10.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>ADSBAFE01A</title>
@@ -27,11 +27,10 @@
     <comp ref="C1">
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbe</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -42,15 +41,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2518dd6e-7960-481b-b61b-6344d4d29f3d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C2">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -61,15 +67,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2b3406f6-aada-45a0-a57e-da92d24be741</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C3">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -80,15 +93,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5d9732d8-6ed7-4ace-ae0d-4a023a8311a2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C4">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -99,15 +119,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2c3e589b-4402-4da3-b3c8-a4f050aefd24</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C5">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -118,15 +145,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>864048b6-707e-4764-9bd4-a122dcee56f0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C6">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -137,15 +171,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>860170e4-b4cc-4c72-9659-7e4ae2318eef</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C7">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -156,15 +197,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>56dc1069-df6d-4459-ba4e-740848e987e9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C8">
       <value>22nF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R9BB223</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -175,15 +223,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>58f9729c-36bc-433d-b190-ee1d57388593</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C9">
       <value>39pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402JRNPO9BN390</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -194,15 +249,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>36ab4cc5-02e7-475d-b5b2-839d50e3146a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C10">
       <value>39pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402JRNPO9BN390</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -213,15 +275,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4504ca55-1cae-432a-a285-7a9da9549fe8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C11">
       <value>22nF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R9BB223</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -232,15 +301,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>93091e90-2cfa-4971-b70e-cefb0a9650f8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C12">
       <value>3pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CQ0402CRNPO9BN3R0</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -251,15 +327,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c14b84ce-5e55-4410-8a14-9210dc12a8ca</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C13">
       <value>3pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CQ0402CRNPO9BN3R0</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -270,15 +353,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a3afdbb3-cadb-401d-a292-e1abb4d00ad7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C14">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -289,15 +379,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9035a1d1-907b-4e76-86e8-79fecd1dd5a5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C15">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -308,15 +405,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>95eacf18-8c49-4d07-ba28-6de62929e529</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C16">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -327,15 +431,22 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2d94b869-2003-437e-87d1-975a816c7ae4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="C17">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">CC0402KRX7R7BB104</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -346,16 +457,23 @@
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5bf56c20-298b-46c0-895f-b1752a16fee6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="D1">
       <value>BZV55C-6,2V</value>
       <footprint>Diode_SMD:D_MiniMELF</footprint>
-      <datasheet>~</datasheet>
       <description>Zener diode</description>
       <fields>
         <field name="UST_ID">604b0326128750769e5b0f93</field>
         <field name="Footprint">Diode_SMD:D_MiniMELF</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Zener diode</field>
       </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
@@ -366,15 +484,22 @@
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>42f4dfb9-8562-4784-980c-bf4793c51ace</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="D2">
       <value>20V 1A</value>
       <footprint>Diode_SMD:D_SOD-123</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">PMEG2010ER,115</field>
         <field name="Footprint">Diode_SMD:D_SOD-123</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
@@ -385,6 +510,14 @@
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>43b300b7-ffbc-4b33-a340-c4d03b970f31</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="D3">
       <value>3.3VWM 0.6pF</value>
@@ -404,6 +537,14 @@
       <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>552facd5-6193-46be-a1bd-e7fd07e3ba36</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="J1">
       <value>HEADER_2x12_PARALLEL</value>
@@ -420,6 +561,36 @@
       <property name="ki_keywords" value="2x12, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ccd6caae-671d-4749-a91a-88a8e96b9eab</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="23"/>
+            <pin num="24"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="J2">
       <value>HEADER_2x03_PARALLEL</value>
@@ -436,16 +607,27 @@
       <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f6369d43-ad80-499c-89a5-bbb0af37b5d2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="J3">
       <value>MCX 6GHz 50R</value>
       <footprint>Mlab_CON:MCX</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN"> U.FL-R-SMT-1(80)</field>
         <field name="UST_ID"/>
         <field name="Footprint">Mlab_CON:MCX</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
@@ -457,15 +639,22 @@
       <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e2ebb360-0f4a-4e04-9fda-39f4a3832cbd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="L1">
       <value>8.2nH RF</value>
       <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">0402HP-8N2XJRW</field>
         <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
@@ -476,16 +665,23 @@
       <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>21c0dbb4-4e73-4688-ad3c-156a7e0863a6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="M1">
       <value>RFShield_TwoPieces</value>
       <footprint>RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</footprint>
-      <datasheet>~</datasheet>
       <description>Two-piece EMI RF shielding cabinet</description>
       <fields>
         <field name="UST_ID">5c72751c1287500b4e11301a</field>
         <field name="Footprint">RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Two-piece EMI RF shielding cabinet</field>
       </fields>
       <libsource lib="Device" part="RFShield_TwoPieces" description="Two-piece EMI RF shielding cabinet"/>
@@ -495,6 +691,13 @@
       <property name="ki_keywords" value="RF EMI shielding cabinet"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a5b1ef38-3322-4096-8341-62a230ff09db</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="M2">
       <value>HOLE</value>
@@ -510,6 +713,13 @@
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3115b8c9-136c-4646-bd26-9e2b8c57e3aa</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="M3">
       <value>HOLE</value>
@@ -525,6 +735,13 @@
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5977ea5f-e80d-42cd-8719-88cb023c538b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="M4">
       <value>HOLE</value>
@@ -542,6 +759,13 @@
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0d491ebf-a33b-475c-9f51-9b1d9c4d6cea</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="M5">
       <value>HOLE</value>
@@ -559,15 +783,21 @@
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4f88d2a4-9409-4f14-98e0-64eebfdf62f7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R1">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -578,15 +808,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c16d8ff2-6bfe-4858-8030-b839f0d4ca4d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R2">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -597,15 +834,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1599d023-2c59-436a-aad5-7101e8d04962</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R3">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -616,15 +860,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d4344db7-87c4-431e-bcd7-59d1562ba265</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R4">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -635,15 +886,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9deae1f7-44d6-4e10-abae-fb6ecee610f4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R5">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -654,15 +912,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c2dc22f1-3a94-44db-903d-286d586d78d0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R6">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -673,15 +938,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c7eda610-3d76-4b1e-8bf3-c4d4cfa0014e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R7">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -692,15 +964,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8afd8db6-25d5-4741-8918-0fe329f02bd5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R8">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -711,15 +990,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3a278169-fc49-474c-a716-c4a86853a714</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R9">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -730,15 +1016,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>43cfafef-f2db-4d67-9845-63af50605473</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R10">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -749,15 +1042,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>99ddc9ad-0d58-484c-8cd6-1e855308dea8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R11">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -768,15 +1068,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e01e8581-761a-4955-a0c8-b0405ac9d61f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R12">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-071KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -787,15 +1094,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d283e769-f8ff-439f-8cff-2c0f07a6b71e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R13">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-071KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -806,15 +1120,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9ad647f-ce7b-43c4-9958-22ce78b736ab</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R14">
       <value>20R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0720RL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -825,15 +1146,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>af3405c3-982c-4ee6-bc44-9cbd263dfb4f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R15">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-071KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -844,15 +1172,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d1e41b8b-9682-47a3-a7ec-f9487cda3a3a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R16">
       <value>0R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402JR-070RL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -863,15 +1198,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8ddf5404-3947-4e7a-9277-7a273f8684d9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R17">
       <value>10R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710RL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -882,15 +1224,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ca8a8b94-5f2f-4e25-be7a-150a4d63276a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R18">
       <value>10R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-0710RL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -901,15 +1250,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>079fa302-83f5-4cfd-ba1b-1120e416c841</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R19">
       <value>0R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402JR-070RL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -920,15 +1276,22 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>260784c4-0a3f-44ca-86eb-5c94bc2b0b50</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="R20">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">RC0402FR-071KL</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -939,6 +1302,14 @@
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>effa878e-64eb-4494-9ce2-104fcfa47dff</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="SW1">
       <value>SN74LVC1G3157</value>
@@ -956,6 +1327,18 @@
       <property name="Sheetfile" value="ADSBAFE01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6ddd2a1f-39f6-4ad7-bfaf-b6486c655e17</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="SW2">
       <value>SN74LVC1G3157</value>
@@ -973,14 +1356,25 @@
       <property name="Sheetfile" value="ADSBAFE01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6f16e44b-7701-4f91-98dd-dd372acce284</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="TP1">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -990,14 +1384,20 @@
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e4ec80fa-2026-4c74-9a57-728553d89211</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="TP2">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1007,14 +1407,20 @@
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f7bf60fe-5bdd-4d54-a832-1821c834eb6c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="TP3">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
-      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1024,6 +1430,13 @@
       <property name="ki_fp_filters" value="Pin* Test*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2789a564-e323-4572-a0fa-9fede119b978</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="U1">
       <value>TLV3542</value>
@@ -1046,6 +1459,24 @@
       <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>be3bd2bf-52c2-4632-a044-911487cd7e2b 05196f70-8d75-4a07-a118-3f93852362e4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="8"/>
+            <pin num="4"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+        <unit name="B">
+          <pins>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="U2">
       <value>MCP6566</value>
@@ -1065,6 +1496,17 @@
       <property name="ki_fp_filters" value="SOT?23* *SC*70*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>236a2bd4-076b-4c25-91fa-f0a63c383d26</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="U3">
       <value>BGA2818</value>
@@ -1084,6 +1526,18 @@
       <property name="ki_fp_filters" value="SOT*363*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4c035009-718d-4a6d-8bd7-15137db66b68</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="6"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="U4">
       <value>AD8313xRM</value>
@@ -1104,6 +1558,20 @@
       <property name="ki_fp_filters" value="MSOP*3x3mm*P0.65mm*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a6809717-73e6-46b7-ad5f-f8eaf0259b80</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="4"/>
+            <pin num="8"/>
+            <pin num="7"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="U5">
       <value>MCP4017-104E 100k</value>
@@ -1124,6 +1592,18 @@
       <property name="ki_fp_filters" value="*SC?70*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ce96e620-abe1-4f24-877b-08686c0172a1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="6"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
     <comp ref="X1">
       <value>SF2321D</value>
@@ -1145,6 +1625,18 @@
       <property name="ki_fp_filters" value="Filter*SAW*3.8x3.8mm*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b23b18d0-13e3-4fd3-b807-1b557f23561b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
     </comp>
   </components>
   <libparts>
@@ -1247,7 +1739,6 @@
     </libpart>
     <libpart lib="Connector" part="Conn_Coaxial">
       <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
-      <docs>~</docs>
       <footprints>
         <fp>*BNC*</fp>
         <fp>*SMA*</fp>
@@ -1263,7 +1754,7 @@
         <field name="Reference">J</field>
         <field name="Value">Conn_Coaxial</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
       </fields>
       <pins>
@@ -1273,7 +1764,6 @@
     </libpart>
     <libpart lib="Connector" part="TestPoint">
       <description>test point</description>
-      <docs>~</docs>
       <footprints>
         <fp>Pin*</fp>
         <fp>Test*</fp>
@@ -1282,7 +1772,7 @@
         <field name="Reference">TP</field>
         <field name="Value">TestPoint</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">test point</field>
       </fields>
       <pins>
@@ -1291,7 +1781,6 @@
     </libpart>
     <libpart lib="Device" part="C">
       <description>Unpolarized capacitor</description>
-      <docs>~</docs>
       <footprints>
         <fp>C_*</fp>
       </footprints>
@@ -1299,7 +1788,7 @@
         <field name="Reference">C</field>
         <field name="Value">C</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <pins>
@@ -1309,7 +1798,6 @@
     </libpart>
     <libpart lib="Device" part="D_Schottky">
       <description>Schottky diode</description>
-      <docs>~</docs>
       <footprints>
         <fp>TO-???*</fp>
         <fp>*_Diode_*</fp>
@@ -1320,7 +1808,7 @@
         <field name="Reference">D</field>
         <field name="Value">D_Schottky</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
       </fields>
       <pins>
@@ -1330,7 +1818,6 @@
     </libpart>
     <libpart lib="Device" part="D_TVS">
       <description>Bidirectional transient-voltage-suppression diode</description>
-      <docs>~</docs>
       <footprints>
         <fp>TO-???*</fp>
         <fp>*_Diode_*</fp>
@@ -1341,7 +1828,7 @@
         <field name="Reference">D</field>
         <field name="Value">D_TVS</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Bidirectional transient-voltage-suppression diode</field>
       </fields>
       <pins>
@@ -1351,7 +1838,6 @@
     </libpart>
     <libpart lib="Device" part="D_Zener">
       <description>Zener diode</description>
-      <docs>~</docs>
       <footprints>
         <fp>TO-???*</fp>
         <fp>*_Diode_*</fp>
@@ -1362,7 +1848,7 @@
         <field name="Reference">D</field>
         <field name="Value">D_Zener</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Zener diode</field>
       </fields>
       <pins>
@@ -1372,7 +1858,6 @@
     </libpart>
     <libpart lib="Device" part="L">
       <description>Inductor</description>
-      <docs>~</docs>
       <footprints>
         <fp>Choke_*</fp>
         <fp>*Coil*</fp>
@@ -1383,7 +1868,7 @@
         <field name="Reference">L</field>
         <field name="Value">L</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Inductor</field>
       </fields>
       <pins>
@@ -1393,7 +1878,6 @@
     </libpart>
     <libpart lib="Device" part="R">
       <description>Resistor</description>
-      <docs>~</docs>
       <footprints>
         <fp>R_*</fp>
       </footprints>
@@ -1401,7 +1885,7 @@
         <field name="Reference">R</field>
         <field name="Value">R</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>
       <pins>
@@ -1411,12 +1895,11 @@
     </libpart>
     <libpart lib="Device" part="RFShield_TwoPieces">
       <description>Two-piece EMI RF shielding cabinet</description>
-      <docs>~</docs>
       <fields>
         <field name="Reference">J</field>
         <field name="Value">RFShield_TwoPieces</field>
         <field name="Footprint"/>
-        <field name="Datasheet">~</field>
+        <field name="Datasheet"/>
         <field name="Description">Two-piece EMI RF shielding cabinet</field>
       </fields>
       <pins>
@@ -1560,22 +2043,22 @@
   </libparts>
   <libraries>
     <library logical="ADSB_projectlib">
-      <uri>/github/workspace/hw/sch_pcb/ADSB_projectlib.kicad_sym</uri>
+      <uri>${KIPRJMOD}/ADSB_projectlib.kicad_sym</uri>
     </library>
     <library logical="Comparator">
-      <uri>/usr/share/kicad/symbols//Comparator.kicad_sym</uri>
+      <uri>${KICAD10_SYMBOL_DIR}/Comparator.kicad_sym</uri>
     </library>
     <library logical="Connector">
-      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+      <uri>${KICAD10_SYMBOL_DIR}/Connector.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
     </library>
     <library logical="Potentiometer_Digital">
-      <uri>/usr/share/kicad/symbols//Potentiometer_Digital.kicad_sym</uri>
+      <uri>${KICAD10_SYMBOL_DIR}/Potentiometer_Digital.kicad_sym</uri>
     </library>
     <library logical="RF_Amplifier">
-      <uri>/usr/share/kicad/symbols//RF_Amplifier.kicad_sym</uri>
+      <uri>${KICAD10_SYMBOL_DIR}/RF_Amplifier.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1588,7 +2071,7 @@
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K_1" pintype="passive"/>
       <node ref="J2" pin="3" pintype="input"/>
       <node ref="J2" pin="4" pintype="input"/>
       <node ref="R12" pin="1" pintype="passive"/>
@@ -1596,37 +2079,37 @@
       <node ref="R15" pin="1" pintype="passive"/>
       <node ref="R17" pin="1" pintype="passive"/>
       <node ref="R18" pin="1" pintype="passive"/>
-      <node ref="SW1" pin="5" pinfunction="VCC" pintype="input"/>
-      <node ref="SW2" pin="5" pinfunction="VCC" pintype="input"/>
-      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
-      <node ref="U2" pin="5" pinfunction="V+" pintype="power_in"/>
-      <node ref="U3" pin="1" pinfunction="Vcc" pintype="power_in"/>
-      <node ref="U5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="SW1" pin="5" pinfunction="VCC_5" pintype="input"/>
+      <node ref="SW2" pin="5" pinfunction="VCC_5" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="V+_8" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="V+_5" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="Vcc_1" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VDD_1" pintype="power_in"/>
     </net>
     <net code="2" name="/DECODE" class="Default">
       <node ref="R8" pin="1" pintype="passive"/>
-      <node ref="SW2" pin="6" pinfunction="S" pintype="input"/>
+      <node ref="SW2" pin="6" pinfunction="S_6" pintype="input"/>
     </net>
     <net code="3" name="/I2C1_SCL" class="Default">
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
-      <node ref="U5" pin="3" pinfunction="SCL" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="SCL_3" pintype="input"/>
     </net>
     <net code="4" name="/I2C1_SDA" class="Default">
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
-      <node ref="U5" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pinfunction="SDA_4" pintype="bidirectional"/>
     </net>
     <net code="5" name="/MTL_BIAS" class="Default">
-      <node ref="SW1" pin="4" pinfunction="A" pintype="passive"/>
-      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U2" pin="4" pinfunction="-" pintype="input"/>
+      <node ref="SW1" pin="4" pinfunction="A_4" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="-_4" pintype="input"/>
     </net>
     <net code="6" name="/MTL_HI_BIAS" class="Default">
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
-      <node ref="SW1" pin="1" pinfunction="B2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="B2_1" pintype="passive"/>
     </net>
     <net code="7" name="/MTL_HI_PWM" class="Default">
       <node ref="R2" pin="2" pintype="passive"/>
@@ -1636,7 +2119,7 @@
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
-      <node ref="SW1" pin="3" pinfunction="B1" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="B1_3" pintype="passive"/>
     </net>
     <net code="9" name="/MTL_LO_PWM" class="Default">
       <node ref="R1" pin="2" pintype="passive"/>
@@ -1645,36 +2128,36 @@
     <net code="10" name="/PULSES" class="Default">
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="R7" pin="1" pintype="passive"/>
-      <node ref="SW1" pin="6" pinfunction="S" pintype="input"/>
+      <node ref="SW1" pin="6" pinfunction="S_6" pintype="input"/>
       <node ref="U2" pin="1" pintype="open_collector"/>
     </net>
     <net code="11" name="/RF_DET_IN+" class="SE_50_CP">
       <node ref="C12" pin="2" pintype="passive"/>
-      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U4" pin="2" pinfunction="INHI" pintype="input"/>
+      <node ref="L1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="INHI_2" pintype="input"/>
     </net>
     <net code="12" name="/RF_DET_IN-" class="SE_50_CP">
       <node ref="C13" pin="2" pintype="passive"/>
-      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="U4" pin="3" pinfunction="INLO" pintype="input"/>
+      <node ref="L1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="INLO_3" pintype="input"/>
     </net>
     <net code="13" name="/RF_DET_OUT" class="Default">
       <node ref="R19" pin="2" pintype="passive"/>
-      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
-      <node ref="U4" pin="8" pinfunction="VOUT" pintype="output"/>
+      <node ref="TP3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+_3" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="VOUT_8" pintype="output"/>
     </net>
     <net code="14" name="/RF_IN" class="SE_50_CP">
       <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="D3" pin="1" pinfunction="A1" pintype="passive"/>
-      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="A1_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="In_1" pintype="passive"/>
     </net>
     <net code="15" name="/RF_LEVEL" class="Default">
-      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1_1" pintype="passive"/>
       <node ref="U1" pin="1" pintype="output"/>
-      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
-      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
-      <node ref="U5" pin="5" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+_5" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="+_3" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="B_5" pintype="passive"/>
     </net>
     <net code="16" name="/RF_LNA_IN" class="SE_50_CP">
       <node ref="C10" pin="2" pintype="passive"/>
@@ -1688,25 +2171,25 @@
     </net>
     <net code="18" name="/RF_SAW_IN" class="SE_50_CP">
       <node ref="C9" pin="2" pintype="passive"/>
-      <node ref="X1" pin="2" pinfunction="IN" pintype="input"/>
+      <node ref="X1" pin="2" pinfunction="IN_2" pintype="input"/>
     </net>
     <net code="19" name="/RF_SAW_OUT" class="SE_50_CP">
       <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="X1" pin="5" pinfunction="OUT" pintype="output"/>
+      <node ref="X1" pin="5" pinfunction="OUT_5" pintype="output"/>
     </net>
     <net code="20" name="/RSSI_DSCHRG" class="Default">
       <node ref="R14" pin="1" pintype="passive"/>
-      <node ref="SW2" pin="3" pinfunction="B1" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="B1_3" pintype="passive"/>
     </net>
     <net code="21" name="/RSSI_HOLD" class="Default">
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
-      <node ref="SW2" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="A_4" pintype="passive"/>
     </net>
     <net code="22" name="/RSSI_PEAK" class="Default">
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="SW2" pin="1" pinfunction="B2" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="B2_1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-_6" pintype="input"/>
     </net>
     <net code="23" name="GND" class="Default">
       <node ref="C1" pin="2" pintype="passive"/>
@@ -1723,8 +2206,8 @@
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D3" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A2_2" pintype="passive"/>
       <node ref="J1" pin="11" pintype="input"/>
       <node ref="J1" pin="12" pintype="input"/>
       <node ref="J1" pin="19" pintype="input"/>
@@ -1735,41 +2218,41 @@
       <node ref="J2" pin="2" pintype="input"/>
       <node ref="J2" pin="5" pintype="input"/>
       <node ref="J2" pin="6" pintype="input"/>
-      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
-      <node ref="M1" pin="1" pinfunction="Shield" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext_2" pintype="passive"/>
+      <node ref="M1" pin="1" pinfunction="Shield_1" pintype="passive"/>
       <node ref="M2" pin="1" pintype="input"/>
       <node ref="M3" pin="1" pintype="input"/>
       <node ref="M4" pin="1" pintype="input"/>
       <node ref="M5" pin="1" pintype="input"/>
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
-      <node ref="SW1" pin="2" pinfunction="GND" pintype="input"/>
-      <node ref="SW2" pin="2" pinfunction="GND" pintype="input"/>
-      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
-      <node ref="U2" pin="2" pinfunction="V-" pintype="power_in"/>
-      <node ref="U3" pin="2" pinfunction="G" pintype="power_in"/>
-      <node ref="U3" pin="4" pinfunction="G" pintype="passive"/>
-      <node ref="U3" pin="5" pinfunction="G" pintype="passive"/>
-      <node ref="U4" pin="5" pinfunction="PWDN" pintype="input"/>
-      <node ref="U4" pin="6" pinfunction="COMM" pintype="power_in"/>
-      <node ref="U5" pin="2" pinfunction="VSS" pintype="power_in"/>
-      <node ref="X1" pin="1" pinfunction="GND" pintype="power_in"/>
-      <node ref="X1" pin="3" pinfunction="GND" pintype="passive"/>
-      <node ref="X1" pin="4" pinfunction="GND" pintype="passive"/>
-      <node ref="X1" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="GND_2" pintype="input"/>
+      <node ref="SW2" pin="2" pinfunction="GND_2" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="V-_4" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="V-_2" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="G_2" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="G_4" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="G_5" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="PWDN_5" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="COMM_6" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="VSS_2" pintype="power_in"/>
+      <node ref="X1" pin="1" pinfunction="GND_1" pintype="power_in"/>
+      <node ref="X1" pin="3" pinfunction="GND_3" pintype="passive"/>
+      <node ref="X1" pin="4" pinfunction="GND_4" pintype="passive"/>
+      <node ref="X1" pin="6" pinfunction="GND_6" pintype="passive"/>
     </net>
     <net code="24" name="Net-(C14-Pad2)" class="Default">
       <node ref="C14" pin="2" pintype="passive"/>
       <node ref="R17" pin="2" pintype="passive"/>
-      <node ref="U4" pin="1" pinfunction="VPOS" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="VPOS_1" pintype="power_in"/>
     </net>
     <net code="25" name="Net-(C15-Pad1)" class="Default">
       <node ref="C15" pin="1" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
-      <node ref="U4" pin="4" pinfunction="VPOS" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="VPOS_4" pintype="power_in"/>
     </net>
     <net code="26" name="Net-(D2-A)" class="Default">
-      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
       <node ref="U1" pin="7" pintype="output"/>
     </net>
     <net code="27" name="Net-(J1-Pad1)" class="Default">
@@ -1819,12 +2302,12 @@
     </net>
     <net code="36" name="Net-(U1A--)" class="Default">
       <node ref="R20" pin="1" pintype="passive"/>
-      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
-      <node ref="U5" pin="6" pinfunction="W" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-_2" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="W_6" pintype="passive"/>
     </net>
     <net code="37" name="Net-(U4-VSET)" class="Default">
       <node ref="R19" pin="1" pintype="passive"/>
-      <node ref="U4" pin="7" pinfunction="VSET" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="VSET_7" pintype="input"/>
     </net>
   </nets>
 </export>
